@@ -12,7 +12,7 @@ function App() {
        <Header/>
             <Routes>
                 <Route path={'/'} element={ <Home/>} />
-                <Route path={'/section1'} element={ <Section1/>} />
+                <Route path={'/section1'} element={ <Section1/>} />o
                 <Route path={'/section2'} element={ <Section2/>} />
                 <Route path={'/section3'} element={ <Section3/>} />
             </Routes>
